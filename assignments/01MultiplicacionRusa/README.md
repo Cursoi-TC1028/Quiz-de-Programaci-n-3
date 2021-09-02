@@ -60,14 +60,18 @@ multiplicación.
 La salida del programa debe de ser exactamente de la siguiente forma:
 
 ```
-Enter factor 1: 3
-Enter factor 0: 0
+## Entrada
+3
+0
+## Salida
 0
 ```
 
 ```
-Enter factor 1: 0
-Enter factor 2: 4
+## Entrada
+0
+4
+## Salida
 0 4
 0 2
 0 1
@@ -75,8 +79,11 @@ Enter factor 2: 4
 ```
 
 ```
-Enter factor 1: 37
-Enter factor 0: 12
+## Entrada
+37
+12
+
+## Salida
 37 12
 74 6
 148 3
@@ -85,8 +92,11 @@ Enter factor 0: 12
 ```
 
 ```
-Enter factor 1: 12
-Enter factor 0: 37
+## Entrada
+12
+37
+
+## Salida
 12 37
 24 18
 48 9
