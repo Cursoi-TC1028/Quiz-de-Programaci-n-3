@@ -144,7 +144,7 @@ sudo -H pip3 install pytest
 - ## 27 Multiplicación Rusa
     ### Run command
     ```
-    pytest assignments/27MultiplicacionRusa
+    pytest assignments/01MultiplicacionRusa
     ```
 
 - ## 28 Secuencia Fibonacci
